@@ -21,3 +21,5 @@ This repository hosts a set of guides dedicated to learning Kotlin Programming L
 1. [Official Kotlin Programming Language Website](https://kotlinlang.org/)
 
 1. [Online Playground for Kotlin Programming Language](https://play.kotlinlang.org/byExample/overview)
+
+> [**☆ Bible:** Kotlin Documentation](https://kotlinlang.org/docs/basic-syntax.html)
