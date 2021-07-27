@@ -10,7 +10,9 @@ This repository hosts a set of guides dedicated to learning Kotlin Programming L
 
 > **Note:** Reading this guide online here (i.e. on GitHub) is recommended over downloading it. The repository consists majorly of markdown files which may not be interpreted properly causing issues in linking and routing.
 
-> **Disclaimer:** The graphic elements in this repository are used
+> **Disclaimer:** The graphic elements used in this repository are collected from the internet.
+
+> **Note:** Viewers can feel free raise issues if they are unable to follow along with the linking and routing of this guide repository.
 
 ![Graphic](https://www.jetbrains.com/img/banners-home-page/teamcity-tile-bg_default.svg)
 
