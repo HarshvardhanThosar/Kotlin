@@ -1,8 +1,10 @@
 # What is Kotlin?
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" height="250px />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg" height="150px" />
 
-!['Kotlin Programming Language'](https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg) ![JetBrains](https://kotlinlang.org/assets/jetbrains-logo.svg)
+<!-- !['Kotlin Programming Language'](https://upload.wikimedia.org/wikipedia/commons/1/11/Kotlin_logo_2021.svg) ![JetBrains](https://kotlinlang.org/assets/jetbrains-logo.svg) -->
+
+<img src="https://kotlinlang.org/assets/jetbrains-logo.svg" height="150px" />
 
 Kotlin is an Object Oriented Programming Language developed by [JetBrains](https://www.jetbrains.com/).
 
